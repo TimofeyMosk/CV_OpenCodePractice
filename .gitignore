@@ -1,0 +1,5 @@
+/venv
+yolov10x.pt
+yolov8x-seg.pt
+yolov8x-oiv7.pt
+yolov8x.pt
